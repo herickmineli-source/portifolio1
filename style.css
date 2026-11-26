@@ -19,3 +19,8 @@ a p:hover{
 body{
     text-align: center;
 }
+body{
+    background-color: rgb(255, 255, 255);
+    background-image:url("IMG_4574.jpeg ");
+    background-size: 50%;
+}
